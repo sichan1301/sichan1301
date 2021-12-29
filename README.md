@@ -1,5 +1,4 @@
 ### <div align="center">👨‍안녕하세요 프론트엔드 개발자 정시찬입니다.</div>  
-  
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />

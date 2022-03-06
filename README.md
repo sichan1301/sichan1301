@@ -5,7 +5,7 @@
 </div>  
   
 
-- ❓ 이력서 보러가기 -> [클릭하세요.](https://sichan1301.github.io/)  
+- ❓ 이력서 보러가기 -> [클릭하세요.](https://sichan1301.github.io/resume/)  
   
 
 - 🌱 멋쟁이 사자처럼 프론트엔드 스쿨 1기 국비교육 수료생  

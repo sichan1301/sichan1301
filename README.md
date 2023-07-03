@@ -5,7 +5,7 @@
 </div>  
   
 
-- 포트폴리오 보러가기 -> [클릭하세요.]([https://sichan1301.github.io/resume/](https://sichan-portfolio.netlify.app/)  
+- 포트폴리오 보러가기 -> [클릭하세요](https://sichan-portfolio.netlify.app/)  
 
 - 트라움인포테크 근무
   
